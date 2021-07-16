@@ -1,2 +1,13 @@
 # Cypress-salesforce-api-test-example
-GET token, POST, GET AND DELETE account/firm with env variables, storing the access token in an env variable while passing the token through the collection.
+
+
+Get token
+Create firm/account
+Create contact
+Create Oportunity
+Link oportunity to the contact 
+Create products/subscriptions
+Run assignment logic
+Data clean up
+
+Iterating through data using fixtures (json object)
