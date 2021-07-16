@@ -7,7 +7,7 @@ In this example I have set up API calls to:
 - Get access token
 - Create firm/account
 - Create contact
-- Create Oportunity
+- Create oportunity
 - Link oportunity to the contact 
 - Create products/subscriptions
 - Run assignment logic
