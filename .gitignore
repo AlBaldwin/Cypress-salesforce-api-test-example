@@ -1,5 +1,10 @@
 node_modules
-test.json
 cypress.env.json
 screenshots
-
+videos
+index.html
+assets
+AssignmentRuleNonGATTestFileMaster.csv
+AssignmentRuleNonGATTestFileMaster.json
+CRM-newFirm.spec.js 
+POC.spec.js 
